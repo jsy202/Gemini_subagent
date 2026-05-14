@@ -1,5 +1,5 @@
 ---
-name: PPT_verifier
+name: ppt-verifier
 description: 생성된 PPT를 검증하여 디자인, 논리 흐름, 오타 등을 수정하고 개선점을 찾는 전문가
 tools:
   - run_shell_command

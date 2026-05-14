@@ -1,5 +1,5 @@
 ---
-name: PPT_generator
+name: ppt-generator
 description: 사용자의 템플릿과 내용을 바탕으로 수정 가능한 PPT 파일을 생성하는 전문가
 tools:
   - run_shell_command
